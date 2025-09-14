@@ -7,6 +7,13 @@ This project explores global energy consumption data to uncover trends, patterns
 - **Filename:** `data/global_energy_consumption.csv`
 - **Description:** Open-source dataset containing global energy consumption statistics by country and year.
 
+## Limitations
+
+- The dataset contains multiple entries per country-year, which may represent duplicates or subcomponents of total consumption.
+- Aggregating by sum can overcount; median can undercount.
+- This affects the reliability of country-level total calculations.
+- Trends and correlations are more trustworthy than absolute totals.
+
 ## Project Structure
 ```
 data/        # Contains the dataset CSV file
