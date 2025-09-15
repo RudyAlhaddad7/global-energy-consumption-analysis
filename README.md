@@ -7,6 +7,12 @@ This project explores global energy consumption data to uncover trends, patterns
 - **Filename:** `data/global_energy_consumption.csv`
 - **Description:** Open-source dataset containing global energy consumption statistics by country and year.
 
+- **Filename:** `data/annual_co2_emissions_country.csv`
+- **Description:** Annual CO₂ emissions per year by country, sourced from Our World in Data.
+
+- **Filename:** `data/dataGDP.csv`
+- **Description:** GDP data by country and year, sourced from the World Bank combining GDP(USD) - GDP Growth - Population Total.
+
 ## Limitations
 
 - The dataset contains multiple entries per country-year, which may represent duplicates or subcomponents of total consumption.
@@ -18,7 +24,6 @@ This project explores global energy consumption data to uncover trends, patterns
 ```
 data/        # Contains the dataset CSV file
 notebooks/   # Jupyter notebooks for exploration and analysis
-src/         # Python scripts (data cleaning, visualization, etc.)
 README.md    # Project summary and instructions
 .gitignore   # Files/folders to ignore in git
 ```
