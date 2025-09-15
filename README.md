@@ -23,13 +23,6 @@ README.md    # Project summary and instructions
 .gitignore   # Files/folders to ignore in git
 ```
 
-## Workflow & TODOs
-- [ ] Load and inspect data
-- [ ] Clean/preprocess data
-- [ ] Visualize key trends (country, year, energy type)
-- [ ] Analyze consumption patterns
-- [ ] Summarize findings and insights
-
 ## How to Run
 1. Clone the repo.
 2. Open `notebooks/eda.ipynb` in VSCode/Jupyter.
