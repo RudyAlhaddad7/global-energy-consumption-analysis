@@ -33,5 +33,10 @@ README.md    # Project summary and instructions
 2. Open `notebooks/eda.ipynb` in VSCode/Jupyter.
 3. Run the cells to explore the data!
 
+
+## How to Read
+
+Open `notebooks/eda.ipynb` directly from GitHub browser 
+
 ## Credits
 Made by Rudy Alhaddad 898742.
